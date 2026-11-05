@@ -14,7 +14,7 @@ A retail company wants to understand how its customers shop, so it can improve s
 
 ## Dataset
 
-- Customer Shopping Behavior dataset, taken from the GitHub repository of the tutorial I followed (Amlan Mohanty, "Complete Data Analytics Portfolio Project in 6 Easy Steps"): [https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI/blob/main/customer_shopping_behavior.csv]
+- Customer Shopping Behavior dataset, taken from the GitHub repository of the tutorial I followed (Amlan Mohanty, "Complete Data Analytics Portfolio Project in 6 Easy Steps"): [tutorial repository](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI)
 - 3,900 customers, 18 columns (age, gender, category, purchase amount, review rating, subscription status, discount, previous purchases, and more)
 - Each row is one customer and their latest purchase
 - This is a practice dataset, so the results are for learning and not for real business decisions
